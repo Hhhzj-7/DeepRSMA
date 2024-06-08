@@ -11,6 +11,10 @@ All the data used in this study data processing code are provided in the data fl
 * representation_cv: pre-trained RNA embedding for cross validation.
 * representation_independent: pre-trained RNA embedding for independent test.
 * RNA_contact: RNA contact map.
+* process_data_molecule.py: Molecular data processing code for cross validation and blind test.
+* process_data_rna.py: RNA data processing code  for cross validation and blind test.
+* process_independent_mole.py: Molecular data processing code for independent test.
+* process_independent_rna.py: RNA data processing code for independent test.
 
 ## Environment
 `You can create a conda environment for DeepRSMA by ‘conda env create -f environment.yml‘.`
