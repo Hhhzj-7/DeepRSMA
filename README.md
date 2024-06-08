@@ -17,9 +17,10 @@ All the data used in this study data processing code are provided in the data fl
 * process_independent_rna.py: RNA data processing code for independent test.
 
 ## Environment
-`You can create a conda environment for DeepRSMA by ‘conda env create -f environment.yml‘.`
+You can create a conda environment for DeepRSMA by `‘conda env create -f environment.yml‘.`
 
 ## Train on multiple experimental settings
+In this study, we employed the following 3 different experimental setups.
 * Cross validation: `‘python main_cv.py‘`
 * Blind test: `‘python main_blind.py‘`
 * Independent test: `‘python main_independent.py‘`
