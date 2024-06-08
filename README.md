@@ -18,7 +18,7 @@ All the data used in this study data processing code are provided in the data fl
 
 The Generation of contact map and pre-trained RNA embedding relies on the following libraries:
 * SPOT-RNA-2D (https://github.com/jaswindersingh2/SPOT-RNA-2D)
-* RNA-FM (https://github.com/soedinglab/CCMpred)
+* RNA-FM (https://github.com/ml4bio/RNA-FM)
 
 ## Environment
 You can create a conda environment for DeepRSMA by `‘conda env create -f environment.yml‘.`
